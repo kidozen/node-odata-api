@@ -1,0 +1,19 @@
+{
+  "name": "odata-api",
+  "version": "1.0.0",
+  "description": "Kidozen connector to invoke oData services",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover _mocha -- -R spec"
+  },
+  "author": "Kidozen",
+  "license": "MIT",
+  "dependencies": {
+    "agentkeepalive": "^0.1.5",
+    "lodash": "^3.6.0",
+    "request": "^2.54.0",
+    "simple-errors": "^1.0.1",
+    "xmldom": "^0.1.19",
+    "xpath": "0.0.9"
+  }
+}
