@@ -1,6 +1,6 @@
 {
   "name": "odata-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Kidozen connector to invoke oData services",
   "main": "index.js",
   "scripts": {
